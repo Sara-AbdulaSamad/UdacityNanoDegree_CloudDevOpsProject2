@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdagramProject"
+	},
+	{
+		"ParameterKey": "MinSize",
+		"ParameterValue": "1"
+	},
+	{
+		"ParameterKey": "MaxSize",
+		"ParameterValue": "4"
+	}
+]
